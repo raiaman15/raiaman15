@@ -1,7 +1,5 @@
 Hello World! 👋 
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=raiaman15&width=500" />
-
 <div align="center">
   <a href="https://www.linkedin.com/in/raiaman15/">
     <img alt="Aman's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
