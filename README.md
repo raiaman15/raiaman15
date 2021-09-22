@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raiaman15&show_icons=true&theme=gotham" alt="raiaman15 stats" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact" alt="raiaman15 top langs" />
 </p>
