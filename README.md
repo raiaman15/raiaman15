@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
   <tr>
   <td>Hello World! 👋 </td>
   <td align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=raiaman15.raiaman15" alt="raiaman15 stats"></td>
