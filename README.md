@@ -1,5 +1,7 @@
 Hello World! 👋 
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=raiaman15&width=500" />
+
 <div align="center">
   <a href="https://www.linkedin.com/in/raiaman15/">
     <img alt="Aman's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -13,6 +15,5 @@ Hello World! 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raiaman15&show_icons=true&theme=gotham" />
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=raiaman15&width=350" />
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=raiaman15" />
 </p>
