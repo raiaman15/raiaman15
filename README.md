@@ -13,6 +13,6 @@ Hello World! 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raiaman15&show_icons=true&theme=gotham" alt="raiaman15 stats" />
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=raiaman15" />
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=raiaman15&width=300" />
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=raiaman15" />
 </p>
