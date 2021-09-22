@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=raiaman15&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=raiaman15" />
 
 <a href="https://www.linkedin.com/in/raiaman15/">
   <img align="left" alt="Aman's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
