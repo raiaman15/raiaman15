@@ -27,4 +27,4 @@ This is where I work on my personal projects and startup ideas!
 
 
 > Tools, languages, and other things that I like to work with.
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=raiaman15&skills=Python,JavaScript,TypeScript&show-other-skills=true" />
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=raiaman15" />
