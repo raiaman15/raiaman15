@@ -24,7 +24,4 @@ This is where I work on my personal projects and startup ideas!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raiaman15&show_icons=true&theme=gotham" alt="raiaman15 stats" />
 </p>
-
-
-> Tools, languages, and other things that I like to work with.
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=raiaman15" />
