@@ -13,5 +13,6 @@ This is where I work on my personal projects and startup ideas!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact" alt="raiaman15 langs" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=raiaman15&show_icons=true&theme=gotham" alt="raiaman15 stats" />
 </p>
